@@ -246,10 +246,6 @@ h2 h3 {
   margin: 0 auto 90px;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-}
-
 .table__heading_theme-dark {
   line-height: 1.15;
   font-size: 24px;
@@ -312,7 +308,7 @@ color: white;
   display: flex;
   flex-direction: column;
   margin-top: 20px;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
 }
 
 .footer__column-links {
@@ -322,9 +318,7 @@ color: white;
 .footer__social_icon {
   width: 16px;
   height: 16px;
-}
-
-.footer__social_icon {
   margin-right: 10px;
 }
+
 
