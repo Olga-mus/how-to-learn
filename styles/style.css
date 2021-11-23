@@ -276,7 +276,6 @@ background-color: #1f1f1f;
 color: white;
 }
 
-
 .footer__columns {
   display: flex;
   width: 90%;
@@ -291,7 +290,6 @@ color: white;
   flex-direction: column;
   justify-content: space-between;
 }
-
 
 .footer__author {
   line-height: 30px;
@@ -308,10 +306,6 @@ color: white;
   display: flex;
   flex-direction: column;
   margin-top: 20px;
-  margin-bottom: 16px;
-}
-
-.footer__column-links {
   margin-bottom: 16px;
 }
 
