@@ -7,6 +7,7 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 .header {
@@ -158,12 +159,13 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin: 0;
+  margin: 0 0 20px;
 }
 
-.table__text_paragraph {
-  margin-top: 20px;
+.table__text:last-of-type {
+margin-bottom: 0;
 }
+
 
 .feynman {
   position: relative;
@@ -324,9 +326,10 @@ color: white;
   margin-right: 10px;
 }
 
-.footer__column-links_click {
+.footer__column-link{
   text-decoration: none;
   color: white;
 }
+
 
 
