@@ -7,7 +7,7 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
 }
 
 .header {
@@ -80,7 +80,8 @@
 
 .two-columns {
   width: 80%;
-  margin: 100px auto;
+  margin: 0 auto;
+  padding-top: 100px;
   display: flex;
   justify-content: space-between;
 }
@@ -136,7 +137,7 @@
   width: 1100px;
   margin: 0 auto 100px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
   padding: 0;
 }
@@ -280,15 +281,18 @@ margin-bottom: 0;
 }
 
 .footer {
-background-color: #1f1f1f;
-color: white;
+  background-color: #1f1f1f;
+  color: white;
+  min-height: 350px;
 }
 
 .footer__columns {
+  background-color: #1f1f1f;
   display: flex;
   width: 90%;
-  padding: 60px 64px 40px;
-  min-height: 350px;
+  margin: 0 auto;
+  padding: 60px 0 40px;
+  min-height: 250px;
   justify-content: space-between;
 }
 
@@ -330,6 +334,3 @@ color: white;
   text-decoration: none;
   color: white;
 }
-
-
-
