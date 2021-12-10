@@ -172,7 +172,6 @@ margin: 0;
   margin-bottom: 0;
 }
 
-
 .feynman {
   position: relative;
   background-color: #f2f2f2;
@@ -318,6 +317,9 @@ margin: 0;
 
 .footer__column-heading {
   margin: 0 0 20px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .footer__column-links {
@@ -339,4 +341,7 @@ margin: 0;
 .footer__column-link {
   text-decoration: none;
   color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
