@@ -10,6 +10,10 @@
   margin: 90px auto 20px;
 }
 
+.section-subtitle_theme_dark{
+ text-align: center;
+}
+
 .table_theme_dark {
   margin: 0 auto 90px;
 }
