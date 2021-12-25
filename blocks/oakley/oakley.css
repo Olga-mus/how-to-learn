@@ -11,7 +11,7 @@
   justify-content: space-between;
 }
 
-.two-columns__brief-oakley {
+.two-columns-oakley__brief {
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
@@ -20,7 +20,7 @@
   margin: 0;
 }
 
-.two-columns__main-text-oakley {
+.two-columns-oakley__main-text {
   width: 80%;
   min-width: 784px;
   line-height: 34px;
@@ -28,6 +28,6 @@
   font-weight: normal;
 }
 
-.two-columns__paragraph-oakley {
+.two-columns-oakley__paragraph {
   margin: 0;
 }
