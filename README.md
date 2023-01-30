@@ -15,6 +15,6 @@ Nested БЭМ, БЭМ, Flexbox, HTML, CSS.
 
 [GitHub Pages](https://olga-mus.github.io/how-to-learn/index.html)
 
-**Статус проекта**
+**Статус проекта:**
 
 Завершено
